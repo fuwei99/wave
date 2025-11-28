@@ -1,0 +1,86 @@
+[
+    {
+        "id": "wavespeed-ai/z-image/turbo",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/z-image/turbo-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/text-to-image-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/text-to-image",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "alibaba/wan-2.5/image-edit",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/edit-plus-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/edit",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/edit-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/qwen-image/edit-plus",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "bytedance/seedream-v4",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "bytedance/seedream-v4/edit",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/jib-mix-qwen-image/text-to-image",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/jib-mix-qwen-image/text-to-image-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    },
+    {
+        "id": "wavespeed-ai/wan-2.2/text-to-image-lora",
+        "object": "model",
+        "created": 1700000000,
+        "owned_by": "wavespeed"
+    }
+]

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  wavespeed-api:
+    build: .
+    ports:
+      - "8001:8001"
+    environment:
+      - PORT=8001
+      - API_KEY=sk-123456
+      # Add other env vars here or use .env file
+      # - WAVESPEED_COOKIE=...
+      # - R2_ENABLED=true
+      # ...
+    volumes:
+      - ./app/config.json:/app/wavespeed2api/app/config.json
+    restart: unless-stopped

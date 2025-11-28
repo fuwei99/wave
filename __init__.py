@@ -1,0 +1,1 @@
+# Wavespeed2API Package
